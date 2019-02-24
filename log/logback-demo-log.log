@@ -1,0 +1,60 @@
+2019-02-24 11:44:36 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 0 has successfully logged in.
+2019-02-24 11:44:36 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 0 entered the password incorrectly.
+2019-02-24 11:44:36 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:37 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 1 has successfully logged in.
+2019-02-24 11:44:37 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 1 entered the password incorrectly.
+2019-02-24 11:44:37 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:37 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 2 has successfully logged in.
+2019-02-24 11:44:37 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 2 entered the password incorrectly.
+2019-02-24 11:44:37 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:38 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 3 has successfully logged in.
+2019-02-24 11:44:38 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 3 entered the password incorrectly.
+2019-02-24 11:44:38 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:38 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 4 has successfully logged in.
+2019-02-24 11:44:38 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 4 entered the password incorrectly.
+2019-02-24 11:44:38 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:39 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 5 has successfully logged in.
+2019-02-24 11:44:39 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 5 entered the password incorrectly.
+2019-02-24 11:44:39 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:39 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 6 has successfully logged in.
+2019-02-24 11:44:39 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 6 entered the password incorrectly.
+2019-02-24 11:44:39 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:40 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 7 has successfully logged in.
+2019-02-24 11:44:40 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 7 entered the password incorrectly.
+2019-02-24 11:44:40 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:40 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 8 has successfully logged in.
+2019-02-24 11:44:40 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 8 entered the password incorrectly.
+2019-02-24 11:44:40 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:41 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 9 has successfully logged in.
+2019-02-24 11:44:41 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 9 entered the password incorrectly.
+2019-02-24 11:44:41 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:41 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 10 has successfully logged in.
+2019-02-24 11:44:41 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 10 entered the password incorrectly.
+2019-02-24 11:44:41 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:42 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 11 has successfully logged in.
+2019-02-24 11:44:42 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 11 entered the password incorrectly.
+2019-02-24 11:44:42 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:42 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 12 has successfully logged in.
+2019-02-24 11:44:42 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 12 entered the password incorrectly.
+2019-02-24 11:44:42 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:43 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 13 has successfully logged in.
+2019-02-24 11:44:43 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 13 entered the password incorrectly.
+2019-02-24 11:44:43 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:43 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 14 has successfully logged in.
+2019-02-24 11:44:43 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 14 entered the password incorrectly.
+2019-02-24 11:44:43 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:44 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 15 has successfully logged in.
+2019-02-24 11:44:44 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 15 entered the password incorrectly.
+2019-02-24 11:44:44 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:44 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 16 has successfully logged in.
+2019-02-24 11:44:44 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 16 entered the password incorrectly.
+2019-02-24 11:44:44 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:45 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 17 has successfully logged in.
+2019-02-24 11:44:45 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 17 entered the password incorrectly.
+2019-02-24 11:44:45 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:45 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 18 has successfully logged in.
+2019-02-24 11:44:45 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 18 entered the password incorrectly.
+2019-02-24 11:44:45 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
+2019-02-24 11:44:46 | [main] | DEBUG | com.logback.LogbackRollingExample | demoLogDebug | - User id 19 has successfully logged in.
+2019-02-24 11:44:46 | [main] | INFO  | com.logback.LogbackRollingExample | demoLogInfo | - User id 19 entered the password incorrectly.
+2019-02-24 11:44:46 | [main] | ERROR | com.logback.LogbackRollingExample | demoLogError | - feature login error may be due to network problems
