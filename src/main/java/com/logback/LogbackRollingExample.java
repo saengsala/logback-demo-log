@@ -12,7 +12,7 @@ public class LogbackRollingExample {
             demoLogDebug(i);
             demoLogInfo(i);
             demoLogError();
-            Thread.sleep(500);
+            Thread.sleep(5000);
         }
     }
 
